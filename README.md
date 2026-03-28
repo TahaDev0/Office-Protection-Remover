@@ -187,7 +187,7 @@ All-in-one tool to remove protection from Microsoft Office files (Excel, Word, P
 ### ⚙️ طرق المعالجة لكل برنامج
 
 | الفئة  | الوصف |
-|-------|--------|-------|
+|-------|-------|
 | **Excel** |  معالجة ملفات Excel الحديثة (xlsx, xlsm, ...) |
 | **Excel** |  معالجة ملفات Excel القديمة (xls) |
 | **Word** |  معالجة ملفات Word الحديثة (docx, docm, ...) |
