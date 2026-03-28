@@ -90,7 +90,7 @@ All-in-one tool to remove protection from Microsoft Office files (Excel, Word, P
 
 ### 🖼️ لقطات شاشة
 
-![لقطة شاشة للواجهة الرئيسية](https://i.ibb.co/8h4vYcX/Screenshot-Remove-pass-Access.png)
+![لقطة شاشة للواجهة الرئيسية](https://i.ibb.co/VY01KTW2/658030663-122183365946785934-3028868356371833957-n.jpg)
 
 ---
 
@@ -101,8 +101,7 @@ All-in-one tool to remove protection from Microsoft Office files (Excel, Word, P
 #### نسخ جاهزة للتشغيل (Windows)
 | Version | GitHub Release | Direct Download |
 |--------|---------------|----------------|
-|  النسخة العربية الموحدة - لا يحتاج تثبيت | [![GitHub Download](https://img.shields.io/badge/GitHub-Download-blue?style=for-the-badge&logo=github)](https://github.com/TahaDev0/Office-Protection-Remover/releases/tag/2.0.0) | [![Direct Download](https://img.shields.io/badge/Direct-Download-green?style=for-the-badge&logo=download)](https://www.up-4ever.net/xxxxxxxxx) |
-|  النسخة الإنجليزية الموحدة - لا يحتاج تثبيت | [![GitHub Download](https://img.shields.io/badge/GitHub-Download-blue?style=for-the-badge&logo=github)](https://github.com/TahaDev0/Office-Protection-Remover/releases/tag/2.0.0) | [![Direct Download](https://img.shields.io/badge/Direct-Download-green?style=for-the-badge&logo=download)](https://www.up-4ever.net/xxxxxxxxx) |
+|  النسخة العربية/النسخة الإنجليزية - لا يحتاج تثبيت | [![GitHub Download](https://img.shields.io/badge/GitHub-Download-blue?style=for-the-badge&logo=github)](https://github.com/TahaDev0/Office-Protection-Remover/releases/tag/2.0.0) | [![Direct Download](https://img.shields.io/badge/Direct-Download-green?style=for-the-badge&logo=download)](https://www.up-4ever.net/kmtwupz6wu1c) |
 
 > 💡 **ملاحظة:** فقط حمل وشغل مباشرة! الأداة الآن تدعم جميع أنواع ملفات Office في تطبيق واحد.
 
@@ -327,7 +326,7 @@ All-in-one tool to remove protection from Microsoft Office files (Excel, Word, P
 
 ### 🖼️ Screenshots
 
-![Main Interface Screenshot](https://i.ibb.co/8h4vYcX/Screenshot-Remove-pass-Access.png)
+![Main Interface Screenshot](https://i.ibb.co/VY01KTW2/658030663-122183365946785934-3028868356371833957-n.jpg)
 
 ---
 
@@ -337,9 +336,8 @@ All-in-one tool to remove protection from Microsoft Office files (Excel, Word, P
 
 #### Ready-to-run versions (Windows)
 | Version | GitHub Release | Direct Download |
-|---------|----------------|-----------------|
-| Unified Arabic Version - No Installation | [![GitHub Download](https://img.shields.io/badge/GitHub-Download-blue?style=for-the-badge&logo=github)](https://github.com/TahaDev0/Office-Protection-Remover/releases/tag/2.0.0) | [![Direct Download](https://img.shields.io/badge/Direct-Download-green?style=for-the-badge&logo=download)](https://www.up-4ever.net/xxxxxxxxx) |
-| Unified English Version - No Installation | [![GitHub Download](https://img.shields.io/badge/GitHub-Download-blue?style=for-the-badge&logo=github)](https://github.com/TahaDev0/Office-Protection-Remover/releases/tag/2.0.0) | [![Direct Download](https://img.shields.io/badge/Direct-Download-green?style=for-the-badge&logo=download)](https://www.up-4ever.net/xxxxxxxxx) |
+|--------|---------------|----------------|
+|  النسخة العربية/النسخة الإنجليزية - لا يحتاج تثبيت | [![GitHub Download](https://img.shields.io/badge/GitHub-Download-blue?style=for-the-badge&logo=github)](https://github.com/TahaDev0/Office-Protection-Remover/releases/tag/2.0.0) | [![Direct Download](https://img.shields.io/badge/Direct-Download-green?style=for-the-badge&logo=download)](https://www.up-4ever.net/kmtwupz6wu1c) 
 
 > 💡 **Note:** Just download and run directly! The tool now supports all Office file types in one application.
 
