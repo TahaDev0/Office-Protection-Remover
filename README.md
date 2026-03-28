@@ -425,16 +425,16 @@ All-in-one tool to remove protection from Microsoft Office files (Excel, Word, P
 
 ### ⚙️ Processing Methods by Application
 
-| Category | Function | Description |
-|----------|----------|-------------|
-| **Excel** | `process_excel_zip_format()` | Process modern Excel files (xlsx, xlsm, ...) |
-| **Excel** | `process_excel_ole_format()` | Process legacy Excel files (xls) |
-| **Word** | `process_word_zip_format()` | Process modern Word files (docx, docm, ...) |
-| **Word** | `process_word_ole_format()` | Process legacy Word files (doc) |
-| **PowerPoint** | `process_ppt_zip_format()` | Process modern PowerPoint files (pptx, pptm, ...) |
-| **PowerPoint** | `process_ppt_ole_format()` | Process legacy PowerPoint files (ppt) |
-| **Access** | `process_accdb_format()` | Process modern Access files (accdb, accde, ...) |
-| **Access** | `process_mdb_format()` | Process legacy Access files (mdb, mde) |
+| Category | Description |
+|----------|-------------|
+| **Excel** | Process modern Excel files (xlsx, xlsm, ...) |
+| **Excel**  | Process legacy Excel files (xls) |
+| **Word**  | Process modern Word files (docx, docm, ...) |
+| **Word** | Process legacy Word files (doc) |
+| **PowerPoint**  | Process modern PowerPoint files (pptx, pptm, ...) |
+| **PowerPoint**  | Process legacy PowerPoint files (ppt) |
+| **Access**  | Process modern Access files (accdb, accde, ...) |
+| **Access**  | Process legacy Access files (mdb, mde) |
 
 ---
 
