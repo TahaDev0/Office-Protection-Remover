@@ -364,7 +364,7 @@ graph LR
 
 <div align="center">
   
-  <img src="https://i.ibb.co/VY01KTW2/658030663-122183365946785934-3028868356371833957-n.jpg" alt="Office Protection Remover" width="85%" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+  <img src="https://i.ibb.co/hJ2DF9Lz/Office-Protection-Password-Remover.png" alt="Office Protection Remover" width="85%" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
   
   <br><br>
   
@@ -625,14 +625,14 @@ graph LR
 
 | Feature | 🚀 **Our Tool** | 🏢 Commercial | 🌐 Online |
 |---------|:--------------:|:-------------:|:---------:|
-| **100% Free** | ✅ | ❌ | ✅/❌ |
+| **100% Free** | ✅ | ❌ | ❌ |
 | **Excel + Word + PPT + Access** | ✅ | ❌ | ❌ |
 | **VBA Protection Removal** | ✅ | ✅ | ❌ |
 | **Batch Processing** | ✅ | ❌ | ❌ |
 | **Full Privacy (Local)** | ✅ | ✅ | ❌ |
 | **Arabic Support** | ✅ | ❌ | ❌ |
 | **Open Source** | ✅ | ❌ | ❌ |
-| **No Installation** | ✅ | ❌ | ✅ |
+| **No Installation** | ✅ | ❌ | ❌ |
 
 </div>
 
