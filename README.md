@@ -222,7 +222,7 @@ graph LR
 ## 🔒 أنواع الحماية التي تتم إزالتها
 
 <details>
-<summary><b>📊 Excel - أكثر من 150 نوع حماية</b></summary>
+<summary><b>📊 Excel - أكثر من نوع حماية</b></summary>
 
 - ✅ حماية الصفحات (Sheet Protection)
 - ✅ حماية هيكل المصنف (Workbook Structure)
@@ -244,7 +244,7 @@ graph LR
 </details>
 
 <details>
-<summary><b>📝 Word - أكثر من 150 نوع حماية</b></summary>
+<summary><b>📝 Word - أكثر من  نوع حماية</b></summary>
 
 - ✅ حماية المستند (قراءة فقط، كتابة، نماذج)
 - ✅ حماية مشروع VBA وكلمة المرور
@@ -262,7 +262,7 @@ graph LR
 </details>
 
 <details>
-<summary><b>📽️ PowerPoint - أكثر من 100 نوع حماية</b></summary>
+<summary><b>📽️ PowerPoint - أكثر من  نوع حماية</b></summary>
 
 - ✅ حماية الشرائح وكلمة مرور التعديل
 - ✅ حماية الكتابة والقراءة فقط
@@ -277,7 +277,7 @@ graph LR
 </details>
 
 <details>
-<summary><b>🗄️ Access - أكثر من 100 نوع حماية</b></summary>
+<summary><b>🗄️ Access - أكثر من  نوع حماية</b></summary>
 
 - ✅ كلمة مرور قاعدة البيانات
 - ✅ أمان مستوى المستخدم
