@@ -186,16 +186,16 @@ All-in-one tool to remove protection from Microsoft Office files (Excel, Word, P
 
 ### ⚙️ طرق المعالجة لكل برنامج
 
-| الفئة | الدالة | الوصف |
+| الفئة  | الوصف |
 |-------|--------|-------|
-| **Excel** | `process_excel_zip_format()` | معالجة ملفات Excel الحديثة (xlsx, xlsm, ...) |
-| **Excel** | `process_excel_ole_format()` | معالجة ملفات Excel القديمة (xls) |
-| **Word** | `process_word_zip_format()` | معالجة ملفات Word الحديثة (docx, docm, ...) |
-| **Word** | `process_word_ole_format()` | معالجة ملفات Word القديمة (doc) |
-| **PowerPoint** | `process_ppt_zip_format()` | معالجة ملفات PowerPoint الحديثة (pptx, pptm, ...) |
-| **PowerPoint** | `process_ppt_ole_format()` | معالجة ملفات PowerPoint القديمة (ppt) |
-| **Access** | `process_accdb_format()` | معالجة ملفات Access الحديثة (accdb, accde, ...) |
-| **Access** | `process_mdb_format()` | معالجة ملفات Access القديمة (mdb, mde) |
+| **Excel** |  معالجة ملفات Excel الحديثة (xlsx, xlsm, ...) |
+| **Excel** |  معالجة ملفات Excel القديمة (xls) |
+| **Word** |  معالجة ملفات Word الحديثة (docx, docm, ...) |
+| **Word** |  معالجة ملفات Word القديمة (doc) |
+| **PowerPoint** |  معالجة ملفات PowerPoint الحديثة (pptx, pptm, ...) |
+| **PowerPoint** |  معالجة ملفات PowerPoint القديمة (ppt) |
+| **Access** |  معالجة ملفات Access الحديثة (accdb, accde, ...) |
+| **Access** |  معالجة ملفات Access القديمة (mdb, mde) |
 
 ---
 
