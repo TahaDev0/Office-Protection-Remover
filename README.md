@@ -282,10 +282,11 @@ All-in-one tool to remove protection from Microsoft Office files (Excel, Word, P
 
 ### 📬 التواصل
 
-- **البريد الإلكتروني**: [tahadevelopment2@gmail.com](mailto:tahadevelopment2@gmail.com)
-- **GitHub**: [@TahaDev0](https://github.com/TahaDev0)
-- **Telegram**: [@tahadev0](https://t.me/tahadev0)
-- **WhatsApp**: [967779373666](https://api.whatsapp.com/send?phone=967779373666)
+- **Email**: [tahadevelopment2@gmail.com](mailto:tahadevelopment2@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-TahaDev0-181717?style=for-the-badge&logo=github)](https://github.com/TahaDev0)
+[![Telegram](https://img.shields.io/badge/Telegram-@tahadev0-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/tahadev0)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send?phone=967779373666)
+
 
 ---
 
@@ -469,21 +470,13 @@ By using this tool, you acknowledge and agree that you:
 
 <div id="Econtact"></div>
 
-### 📬 Contact
-
-- **Email**: [tahadevelopment2@gmail.com](mailto:tahadevelopment2@gmail.com)
-- **GitHub**: [@TahaDev0](https://github.com/TahaDev0)
-- **Telegram**: [@tahadev0](https://t.me/tahadev0)
-- **WhatsApp**: [967779373666](https://api.whatsapp.com/send?phone=967779373666)
-
-
 ### 📬 Contact & Support | التواصل والدعم
 
-**Taha Development**
-
+- **Email**: [tahadevelopment2@gmail.com](mailto:tahadevelopment2@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-TahaDev0-181717?style=for-the-badge&logo=github)](https://github.com/TahaDev0)
 [![Telegram](https://img.shields.io/badge/Telegram-@tahadev0-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/tahadev0)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send?phone=967779373666)
+
 
 
 
