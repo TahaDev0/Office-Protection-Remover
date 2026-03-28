@@ -1,4 +1,4 @@
-# Office-Protection-Remover
+
 # Office-Protection-Remover-All-in-One
 
 All-in-one tool to remove protection from Microsoft Office files (Excel, Word, PowerPoint, Access).
@@ -10,14 +10,19 @@ All-in-one tool to remove protection from Microsoft Office files (Excel, Word, P
   <h1>🔓 Office Protection Remover</h1>
   <h3>مزيل حماية جميع ملفات مايكروسوفت أوفيس</h3>
   <p><em>أداة سطح مكتب شاملة لإزالة جميع أنواع الحماية من ملفات Office (Excel, Word, PowerPoint, Access) دفعة واحدة</em></p>
-  
+  # 🔓 Office Protection Remover Enhanced V1.04
+### The Ultimate Security & Password Stripper for Microsoft Office Suite
+### المساعد الذكي لإزالة حماية وكلمات مرور حزمة مايكروسوفت أوفيس الشاملة
+
+<div align="center">
+
+![Version](https://img.shields.io/badge/Version-1.04_Enhanced-blue?style=for-the-badge&logo=github)
+![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=for-the-badge&logo=windows)
+![Language](https://img.shields.io/badge/Language-Arabic%20%7C%20English-orange?style=for-the-badge)
+![License](https://img.shields.io/badge/License-Freeware-green?style=for-the-badge)
+
   <p>
-    <img src="https://img.shields.io/badge/version-2.0.0-blue.svg" alt="Version 2.0.0">
-    <img src="https://img.shields.io/badge/python-3.8+-green.svg" alt="Python 3.8+">
-    <img src="https://img.shields.io/badge/PyQt-6.0-orange.svg" alt="PyQt6">
-    <img src="https://img.shields.io/badge/license-MIT-yellow.svg" alt="MIT License">
-    <img src="https://img.shields.io/badge/platform-windows%20%7C%20linux%20%7C%20macos-lightgrey" alt="Platforms">
-  </p>
+
   
   <!-- روابط التنقل السريع -->
   <h3>
@@ -271,13 +276,16 @@ All-in-one tool to remove protection from Microsoft Office files (Excel, Word, P
 
 ---
 
+---
+
 <div id="contact"></div>
 
 ### 📬 التواصل
 
 - **البريد الإلكتروني**: [tahadevelopment2@gmail.com](mailto:tahadevelopment2@gmail.com)
-- **غيت هوب**: [@TahaDev0](https://github.com/TahaDev0)
-- **الموقع**: [https://github.com/TahaDev0](https://github.com/TahaDev0)
+- **GitHub**: [@TahaDev0](https://github.com/TahaDev0)
+- **Telegram**: [@tahadev0](https://t.me/tahadev0)
+- **WhatsApp**: [967779373666](https://api.whatsapp.com/send?phone=967779373666)
 
 ---
 
@@ -465,9 +473,19 @@ By using this tool, you acknowledge and agree that you:
 
 - **Email**: [tahadevelopment2@gmail.com](mailto:tahadevelopment2@gmail.com)
 - **GitHub**: [@TahaDev0](https://github.com/TahaDev0)
-- **WEB**: [https://github.com/TahaDev0](https://github.com/TahaDev0)
+- **Telegram**: [@tahadev0](https://t.me/tahadev0)
+- **WhatsApp**: [967779373666](https://api.whatsapp.com/send?phone=967779373666)
 
----
+
+### 📬 Contact & Support | التواصل والدعم
+
+**Taha Development**
+
+[![GitHub](https://img.shields.io/badge/GitHub-TahaDev0-181717?style=for-the-badge&logo=github)](https://github.com/TahaDev0)
+[![Telegram](https://img.shields.io/badge/Telegram-@tahadev0-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/tahadev0)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send?phone=967779373666)
+
+
 
 <div align="center">
   
