@@ -132,7 +132,7 @@
 
 | الإصدار | الحجم | التحميل |
 |---------|-------|---------|
-| **Office Protection Remover v1.04** (عربي/إنجليزي) | ~25 MB | [![GitHub](https://img.shields.io/badge/GitHub-Download-181717?style=for-the-badge&logo=github)](https://github.com/TahaDev0/Office-Protection-Remover/releases/latest) [![Direct](https://img.shields.io/badge/Direct-Download-25D366?style=for-the-badge&logo=download)](https://www.up-4ever.net/kmtwupz6wu1c) |
+| **Office Protection Remover v1.04** (عربي/إنجليزي) | ~25 MB | [![GitHub](https://img.shields.io/badge/GitHub-Download-181717?style=for-the-badge&logo=github)](https://github.com/TahaDev0/Office-Protection-Remover/releases/latest) [![Direct](https://img.shields.io/badge/Direct-Download-25D366?style=for-the-badge&logo=download)](https://www.up-4ever.net/2plpfyo7amde) |
 
 </div>
 
@@ -451,7 +451,7 @@ graph LR
 
 | Version | Size | Download |
 |---------|------|----------|
-| **Office Protection Remover v1.04** (Arabic/English) | ~25 MB | [![GitHub](https://img.shields.io/badge/GitHub-Download-181717?style=for-the-badge&logo=github)](https://github.com/TahaDev0/Office-Protection-Remover/releases/latest) [![Direct](https://img.shields.io/badge/Direct-Download-25D366?style=for-the-badge&logo=download)](https://www.up-4ever.net/kmtwupz6wu1c) |
+| **Office Protection Remover v1.04** (Arabic/English) | ~30 MB | [![GitHub](https://img.shields.io/badge/GitHub-Download-181717?style=for-the-badge&logo=github)](https://github.com/TahaDev0/Office-Protection-Remover/releases/latest) [![Direct](https://img.shields.io/badge/Direct-Download-25D366?style=for-the-badge&logo=download)](https://www.up-4ever.net/2plpfyo7amde) |
 
 </div>
 
